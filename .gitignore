@@ -54,3 +54,6 @@ json
 *.zip
 *.tar.gz
 *.rar
+
+# ide
+.replit
